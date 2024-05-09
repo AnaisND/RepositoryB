@@ -1,0 +1,2 @@
+Acesta este fisierul RepoBFile1.txt
+Sursa originala: AnaisND/RepositoryB
